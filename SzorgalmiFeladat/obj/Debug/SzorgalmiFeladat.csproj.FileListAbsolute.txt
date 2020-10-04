@@ -1,0 +1,10 @@
+C:\Users\laszl\source\repos\SzorgalmiFeladat\SzorgalmiFeladat\bin\Debug\SzorgalmiFeladat.exe.config
+C:\Users\laszl\source\repos\SzorgalmiFeladat\SzorgalmiFeladat\bin\Debug\SzorgalmiFeladat.exe
+C:\Users\laszl\source\repos\SzorgalmiFeladat\SzorgalmiFeladat\bin\Debug\SzorgalmiFeladat.pdb
+C:\Users\laszl\source\repos\SzorgalmiFeladat\SzorgalmiFeladat\obj\Debug\SzorgalmiFeladat.csprojAssemblyReference.cache
+C:\Users\laszl\source\repos\SzorgalmiFeladat\SzorgalmiFeladat\obj\Debug\SzorgalmiFeladat.Form1.resources
+C:\Users\laszl\source\repos\SzorgalmiFeladat\SzorgalmiFeladat\obj\Debug\SzorgalmiFeladat.Properties.Resources.resources
+C:\Users\laszl\source\repos\SzorgalmiFeladat\SzorgalmiFeladat\obj\Debug\SzorgalmiFeladat.csproj.GenerateResource.cache
+C:\Users\laszl\source\repos\SzorgalmiFeladat\SzorgalmiFeladat\obj\Debug\SzorgalmiFeladat.csproj.CoreCompileInputs.cache
+C:\Users\laszl\source\repos\SzorgalmiFeladat\SzorgalmiFeladat\obj\Debug\SzorgalmiFeladat.exe
+C:\Users\laszl\source\repos\SzorgalmiFeladat\SzorgalmiFeladat\obj\Debug\SzorgalmiFeladat.pdb
